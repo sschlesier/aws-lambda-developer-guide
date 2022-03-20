@@ -1,8 +1,12 @@
 {
+  "type": "module",
   "name": "nodejs-apig",
   "version": "1.0.0",
   "private": true,
   "devDependencies": {
     "aws-sdk": "2.814.0"
+  },
+  "dependencies": {
+    "@opentelemetry/api": "^1.1.0"
   }
 }
